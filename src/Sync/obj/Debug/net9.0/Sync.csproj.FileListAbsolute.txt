@@ -1,0 +1,12 @@
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\bin\Debug\net9.0\Sync.deps.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\bin\Debug\net9.0\Sync.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\bin\Debug\net9.0\Sync.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.AssemblyInfoInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.AssemblyInfo.cs
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.csproj.CoreCompileInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.sourcelink.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\refint\Sync.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\Sync.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Sync\obj\Debug\net9.0\ref\Sync.dll

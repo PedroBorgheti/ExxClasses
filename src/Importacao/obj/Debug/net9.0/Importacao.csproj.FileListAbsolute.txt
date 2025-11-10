@@ -1,0 +1,12 @@
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\bin\Debug\net9.0\Importacao.deps.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\bin\Debug\net9.0\Importacao.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\bin\Debug\net9.0\Importacao.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.AssemblyInfoInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.AssemblyInfo.cs
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.csproj.CoreCompileInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.sourcelink.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\refint\Importacao.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\Importacao.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Importacao\obj\Debug\net9.0\ref\Importacao.dll

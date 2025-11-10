@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Importacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Importacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Importacao.dll": {}
+        }
+      },
+      "Pagamento/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Pagamento.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pagamento.dll": {}
+        }
+      },
+      "Pedidos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Pedidos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pedidos.dll": {}
+        }
+      },
+      "Sync/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Sync.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sync.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Importacao/1.0.0": {
+      "type": "project",
+      "path": "../../src/Importacao/Importacao.csproj",
+      "msbuildProject": "../../src/Importacao/Importacao.csproj"
+    },
+    "Pagamento/1.0.0": {
+      "type": "project",
+      "path": "../../src/Pagamento/Pagamento.csproj",
+      "msbuildProject": "../../src/Pagamento/Pagamento.csproj"
+    },
+    "Pedidos/1.0.0": {
+      "type": "project",
+      "path": "../../src/Pedidos/Pedidos.csproj",
+      "msbuildProject": "../../src/Pedidos/Pedidos.csproj"
+    },
+    "Sync/1.0.0": {
+      "type": "project",
+      "path": "../../src/Sync/Sync.csproj",
+      "msbuildProject": "../../src/Sync/Sync.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Importacao >= 1.0.0",
+      "Pagamento >= 1.0.0",
+      "Pedidos >= 1.0.0",
+      "Sync >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\borgh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\Runner.csproj",
+      "projectName": "Runner",
+      "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\Runner.csproj",
+      "packagesPath": "C:\\Users\\borgh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\borgh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj": {
+              "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj"
+            },
+            "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj": {
+              "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj"
+            },
+            "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj": {
+              "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj"
+            },
+            "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj": {
+              "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

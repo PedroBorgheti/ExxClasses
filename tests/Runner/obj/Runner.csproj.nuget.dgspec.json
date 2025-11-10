@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\Runner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj",
+        "projectName": "Importacao",
+        "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj",
+        "packagesPath": "C:\\Users\\borgh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borgh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj",
+        "projectName": "Pagamento",
+        "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj",
+        "packagesPath": "C:\\Users\\borgh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borgh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj",
+        "projectName": "Pedidos",
+        "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj",
+        "packagesPath": "C:\\Users\\borgh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borgh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj",
+        "projectName": "Sync",
+        "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj",
+        "packagesPath": "C:\\Users\\borgh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borgh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\Runner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\Runner.csproj",
+        "projectName": "Runner",
+        "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\Runner.csproj",
+        "packagesPath": "C:\\Users\\borgh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\tests\\Runner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\borgh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj": {
+                "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Importacao\\Importacao.csproj"
+              },
+              "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj": {
+                "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pagamento\\Pagamento.csproj"
+              },
+              "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj": {
+                "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Pedidos\\Pedidos.csproj"
+              },
+              "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj": {
+                "projectPath": "C:\\Users\\borgh\\OneDrive\\Documents\\Git\\ExxClasses\\src\\Sync\\Sync.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

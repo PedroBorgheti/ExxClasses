@@ -1,0 +1,12 @@
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\bin\Debug\net9.0\Pedidos.deps.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\bin\Debug\net9.0\Pedidos.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\bin\Debug\net9.0\Pedidos.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.AssemblyInfoInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.AssemblyInfo.cs
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.sourcelink.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\refint\Pedidos.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\Pedidos.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pedidos\obj\Debug\net9.0\ref\Pedidos.dll

@@ -1,0 +1,12 @@
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\bin\Debug\net9.0\Pagamento.deps.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\bin\Debug\net9.0\Pagamento.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\bin\Debug\net9.0\Pagamento.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.AssemblyInfoInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.AssemblyInfo.cs
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.sourcelink.json
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\refint\Pagamento.dll
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\Pagamento.pdb
+C:\Users\borgh\OneDrive\Documents\Git\ExxClasses\src\Pagamento\obj\Debug\net9.0\ref\Pagamento.dll
